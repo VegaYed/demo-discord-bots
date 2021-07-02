@@ -23,4 +23,4 @@ client.on('message', async message => {
     }
 })
 
-client.login('Nzc3NjM5NDMyNjU1ODYzODQ5.X7GXKA.OwaqYO3cWaNQpCEPv4p1e537sJA');
+client.login(API_KEY);
